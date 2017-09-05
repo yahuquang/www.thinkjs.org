@@ -26,7 +26,8 @@ $ npm uninstall -g thinkjs
 ```
 $ thinkjs new demo;
 $ cd demo;
-$ npm install; 
+$ npm install;
+$ npm i
 $ npm start; 
 ```
 
